@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 278e458940cc0e6448da7866863fbf30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5540392974530100142
+    second: ArcherTowerAlt_0
+  - first:
+      213: 7768910404051003288
+    second: ArcherTowerAlt_1
+  - first:
+      213: 4574025676245366022
+    second: ArcherTowerAlt_2
+  - first:
+      213: 7818336552054612379
+    second: ArcherTowerAlt_3
+  - first:
+      213: -4087139595160169595
+    second: ArcherTowerAlt_4
+  - first:
+      213: -1780787257742571252
+    second: ArcherTowerAlt_5
+  - first:
+      213: -3356718840922243860
+    second: ArcherTowerAlt_6
+  - first:
+      213: -9212021563933018909
+    second: ArcherTowerAlt_7
+  - first:
+      213: 6130832603890331318
+    second: ArcherTowerAlt_8
+  - first:
+      213: -697899815442621587
+    second: ArcherTowerAlt_9
+  - first:
+      213: 828102931852774622
+    second: ArcherTowerAlt_10
+  - first:
+      213: -5802991547205000027
+    second: ArcherTowerAlt_11
+  - first:
+      213: -5731281390402503632
+    second: ArcherTowerAlt_12
+  - first:
+      213: 3360346392312929829
+    second: ArcherTowerAlt_13
+  - first:
+      213: 464371616363174273
+    second: ArcherTowerAlt_14
+  - first:
+      213: -5269858314336733182
+    second: ArcherTowerAlt_15
+  - first:
+      213: 2704440622855770332
+    second: ArcherTowerAlt_16
+  - first:
+      213: -4106044356115771240
+    second: ArcherTowerAlt_17
+  - first:
+      213: -3122970846618396051
+    second: ArcherTowerAlt_18
+  - first:
+      213: -4384501759558408912
+    second: ArcherTowerAlt_19
+  - first:
+      213: -1889835502244962030
+    second: ArcherTowerAlt_20
+  - first:
+      213: 1286485032455598686
+    second: ArcherTowerAlt_21
+  - first:
+      213: 1513131834988524841
+    second: ArcherTowerAlt_22
+  - first:
+      213: -7617121479484729920
+    second: ArcherTowerAlt_23
+  - first:
+      213: 2791487575846490702
+    second: ArcherTowerAlt_24
+  - first:
+      213: 5252714460384370363
+    second: ArcherTowerAlt_25
+  - first:
+      213: -288442782011500440
+    second: ArcherTowerAlt_26
+  - first:
+      213: 3842580179798924218
+    second: ArcherTowerAlt_27
+  - first:
+      213: 7286428637424867295
+    second: ArcherTowerAlt_28
+  - first:
+      213: 7235506500293312763
+    second: ArcherTowerAlt_29
+  - first:
+      213: 2969838765551639379
+    second: ArcherTowerAlt_30
+  - first:
+      213: -3034001296808671404
+    second: ArcherTowerAlt_31
+  - first:
+      213: 858489754492070974
+    second: ArcherTowerAlt_32
+  - first:
+      213: 6576901476514863411
+    second: ArcherTowerAlt_33
+  - first:
+      213: 3109982028078342440
+    second: ArcherTowerAlt_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArcherTowerAlt_0
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1660
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabbfea5e0e63ec40800000000000000
+      internalID: 5540392974530100142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1579
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897eb4dd9d6b0db60800000000000000
+      internalID: 7768910404051003288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1415
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605fe1a4e143a7f30800000000000000
+      internalID: 4574025676245366022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1468
+        width: 23
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91eaa7bbaf408c60800000000000000
+      internalID: 7818336552054612379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1263
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835b0b51309747c0800000000000000
+      internalID: -4087139595160169595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1133
+        width: 216
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0946b19c6f5947e0800000000000000
+      internalID: -1780787257742571252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1116
+        width: 34
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf7f3bff98a61d0800000000000000
+      internalID: -3356718840922243860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1133
+        width: 214
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b88ae133582080800000000000000
+      internalID: -9212021563933018909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1262
+        width: 229
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be244c45c7151550800000000000000
+      internalID: 6130832603890331318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 805
+        width: 782
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b5bb3c0df8056f0800000000000000
+      internalID: -697899815442621587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 693
+        width: 782
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc4b82aa330e7b00800000000000000
+      internalID: 828102931852774622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 210
+        width: 84
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a46042fee1a77fa0800000000000000
+      internalID: -5802991547205000027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 401
+        width: 152
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c7049e0f56670b0800000000000000
+      internalID: -5731281390402503632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 662
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed31c6d3952ae20800000000000000
+      internalID: 3360346392312929829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 631
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d9155687c17600800000000000000
+      internalID: 464371616363174273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 683
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f155b8c3bdd6b0800000000000000
+      internalID: -5269858314336733182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 7
+        width: 85
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd05471fa6a188520800000000000000
+      internalID: 2704440622855770332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 447
+        width: 226
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d8b1b9666407c0800000000000000
+      internalID: -4106044356115771240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 210
+        width: 120
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad86baf8af8a4d0800000000000000
+      internalID: -3122970846618396051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 615
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035227831ee1723c0800000000000000
+      internalID: -4384501759558408912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 570
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21164cc9f94f5c5e0800000000000000
+      internalID: -1889835502244962030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 525
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e527f5822538ad110800000000000000
+      internalID: 1286485032455598686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 585
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92573d21369bff410800000000000000
+      internalID: 1513131834988524841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 269
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c590542f5c8a4690800000000000000
+      internalID: -7617121479484729920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 437
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e421f39092b5db620800000000000000
+      internalID: 2791487575846490702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 447
+        width: 89
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe94cdb8f365e840800000000000000
+      internalID: 5252714460384370363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 391
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868dd2861de3ffbf0800000000000000
+      internalID: -288442782011500440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 391
+        width: 258
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1fdd8056935530800000000000000
+      internalID: 3842580179798924218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 269
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd751f69d389e1560800000000000000
+      internalID: 7286428637424867295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 334
+        width: 225
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04300a3dea96460800000000000000
+      internalID: 7235506500293312763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 47
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd3e45f9cf63920800000000000000
+      internalID: 2969838765551639379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 165
+        width: 48
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45705a735ef05e5d0800000000000000
+      internalID: -3034001296808671404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 83
+        width: 38
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cefcb12e7f9eb00800000000000000
+      internalID: 858489754492070974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 73
+        width: 43
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33919660c09d54b50800000000000000
+      internalID: 6576901476514863411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcherTowerAlt_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 75
+        width: 263
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82165795d20e82b20800000000000000
+      internalID: 3109982028078342440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArcherTowerAlt_0: 5540392974530100142
+      ArcherTowerAlt_1: 7768910404051003288
+      ArcherTowerAlt_10: 828102931852774622
+      ArcherTowerAlt_11: -5802991547205000027
+      ArcherTowerAlt_12: -5731281390402503632
+      ArcherTowerAlt_13: 3360346392312929829
+      ArcherTowerAlt_14: 464371616363174273
+      ArcherTowerAlt_15: -5269858314336733182
+      ArcherTowerAlt_16: 2704440622855770332
+      ArcherTowerAlt_17: -4106044356115771240
+      ArcherTowerAlt_18: -3122970846618396051
+      ArcherTowerAlt_19: -4384501759558408912
+      ArcherTowerAlt_2: 4574025676245366022
+      ArcherTowerAlt_20: -1889835502244962030
+      ArcherTowerAlt_21: 1286485032455598686
+      ArcherTowerAlt_22: 1513131834988524841
+      ArcherTowerAlt_23: -7617121479484729920
+      ArcherTowerAlt_24: 2791487575846490702
+      ArcherTowerAlt_25: 5252714460384370363
+      ArcherTowerAlt_26: -288442782011500440
+      ArcherTowerAlt_27: 3842580179798924218
+      ArcherTowerAlt_28: 7286428637424867295
+      ArcherTowerAlt_29: 7235506500293312763
+      ArcherTowerAlt_3: 7818336552054612379
+      ArcherTowerAlt_30: 2969838765551639379
+      ArcherTowerAlt_31: -3034001296808671404
+      ArcherTowerAlt_32: 858489754492070974
+      ArcherTowerAlt_33: 6576901476514863411
+      ArcherTowerAlt_34: 3109982028078342440
+      ArcherTowerAlt_4: -4087139595160169595
+      ArcherTowerAlt_5: -1780787257742571252
+      ArcherTowerAlt_6: -3356718840922243860
+      ArcherTowerAlt_7: -9212021563933018909
+      ArcherTowerAlt_8: 6130832603890331318
+      ArcherTowerAlt_9: -697899815442621587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: e0cc71a33523ba546996dc591f91f338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8188131490650465384
+    second: CannonballProjectile_0
+  - first:
+      213: -8923829861230371124
+    second: CannonballProjectile_1
+  - first:
+      213: 3257548042394296103
+    second: CannonballProjectile_2
+  - first:
+      213: 4037969099322644943
+    second: CannonballProjectile_3
+  - first:
+      213: 4425903096519150265
+    second: CannonballProjectile_4
+  - first:
+      213: 7917434993749647401
+    second: CannonballProjectile_5
+  - first:
+      213: -881174937886692196
+    second: CannonballProjectile_6
+  - first:
+      213: 5916585234302448659
+    second: CannonballProjectile_7
+  - first:
+      213: 938617103517208547
+    second: CannonballProjectile_8
+  - first:
+      213: 7515162448866797492
+    second: CannonballProjectile_9
+  - first:
+      213: -3467917194704378789
+    second: CannonballProjectile_10
+  - first:
+      213: -1677132391386394064
+    second: CannonballProjectile_11
+  - first:
+      213: -4665227908836819817
+    second: CannonballProjectile_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CannonballProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 410
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864296a453612a170800000000000000
+      internalID: 8188131490650465384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 417
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce175d8500382480800000000000000
+      internalID: -8923829861230371124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f5ea17fa2253d20800000000000000
+      internalID: 3257548042394296103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95123708fb90830800000000000000
+      internalID: 4037969099322644943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 87
+        width: 94
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba4356ba67fb6d30800000000000000
+      internalID: 4425903096519150265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 117
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e1bead2160ed60800000000000000
+      internalID: 7917434993749647401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 61
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c694a001075c3f0800000000000000
+      internalID: -881174937886692196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3143be55ceeeb1250800000000000000
+      internalID: 5916585234302448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 45
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efcf3b5843a60d00800000000000000
+      internalID: 938617103517208547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 17
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b76f022e683b4860800000000000000
+      internalID: 7515162448866797492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 10
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542d2b6fab7fdfc0800000000000000
+      internalID: -3467917194704378789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 25
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032dc12d9f0a9b8e0800000000000000
+      internalID: -1677132391386394064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonballProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cfa813fe7c14fb0800000000000000
+      internalID: -4665227908836819817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CannonballProjectile_0: 8188131490650465384
+      CannonballProjectile_1: -8923829861230371124
+      CannonballProjectile_10: -3467917194704378789
+      CannonballProjectile_11: -1677132391386394064
+      CannonballProjectile_12: -4665227908836819817
+      CannonballProjectile_2: 3257548042394296103
+      CannonballProjectile_3: 4037969099322644943
+      CannonballProjectile_4: 4425903096519150265
+      CannonballProjectile_5: 7917434993749647401
+      CannonballProjectile_6: -881174937886692196
+      CannonballProjectile_7: 5916585234302448659
+      CannonballProjectile_8: 938617103517208547
+      CannonballProjectile_9: 7515162448866797492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

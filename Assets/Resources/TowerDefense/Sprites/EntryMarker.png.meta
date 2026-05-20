@@ -1,0 +1,6266 @@
+fileFormatVersion: 2
+guid: 6a42013c68b34fe4da2d44086178045a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 846293446781370276
+    second: EntryMarker_0
+  - first:
+      213: -8117224399913596497
+    second: EntryMarker_1
+  - first:
+      213: 2554154446863490550
+    second: EntryMarker_2
+  - first:
+      213: 692770480784676642
+    second: EntryMarker_3
+  - first:
+      213: -7749268413877606182
+    second: EntryMarker_4
+  - first:
+      213: -6059056833443334627
+    second: EntryMarker_5
+  - first:
+      213: -6752023785823813765
+    second: EntryMarker_6
+  - first:
+      213: 1695108710000234134
+    second: EntryMarker_7
+  - first:
+      213: 8987172167584786274
+    second: EntryMarker_8
+  - first:
+      213: 7541627548565813598
+    second: EntryMarker_9
+  - first:
+      213: 958541124626113676
+    second: EntryMarker_10
+  - first:
+      213: 5219146420259192835
+    second: EntryMarker_11
+  - first:
+      213: 2072573337198020085
+    second: EntryMarker_12
+  - first:
+      213: -5740728417446952108
+    second: EntryMarker_13
+  - first:
+      213: 6822092215599913026
+    second: EntryMarker_14
+  - first:
+      213: 3815143061814281352
+    second: EntryMarker_15
+  - first:
+      213: -2921038281768327958
+    second: EntryMarker_16
+  - first:
+      213: 6798483417111920808
+    second: EntryMarker_17
+  - first:
+      213: -1163760211370403322
+    second: EntryMarker_18
+  - first:
+      213: 5557757557702731545
+    second: EntryMarker_19
+  - first:
+      213: 6135238489587609157
+    second: EntryMarker_20
+  - first:
+      213: -8687848201086429799
+    second: EntryMarker_21
+  - first:
+      213: 2457709363952033679
+    second: EntryMarker_22
+  - first:
+      213: 5888861961726134965
+    second: EntryMarker_23
+  - first:
+      213: -7185340183436463918
+    second: EntryMarker_24
+  - first:
+      213: -7533751130098462818
+    second: EntryMarker_25
+  - first:
+      213: -479912728625372609
+    second: EntryMarker_26
+  - first:
+      213: 3014014032616493949
+    second: EntryMarker_27
+  - first:
+      213: 2982214800244930676
+    second: EntryMarker_28
+  - first:
+      213: 3172751187965212294
+    second: EntryMarker_29
+  - first:
+      213: 4829174426563043670
+    second: EntryMarker_30
+  - first:
+      213: 7984412903212454076
+    second: EntryMarker_31
+  - first:
+      213: 3689785208048449672
+    second: EntryMarker_32
+  - first:
+      213: -7228116270067418562
+    second: EntryMarker_33
+  - first:
+      213: -1809316151916407324
+    second: EntryMarker_34
+  - first:
+      213: 7871984912656159575
+    second: EntryMarker_35
+  - first:
+      213: 846759359638437849
+    second: EntryMarker_36
+  - first:
+      213: 2805478473019451373
+    second: EntryMarker_37
+  - first:
+      213: 7903309123856668311
+    second: EntryMarker_38
+  - first:
+      213: -5114496843660765271
+    second: EntryMarker_39
+  - first:
+      213: -8653209785507336842
+    second: EntryMarker_40
+  - first:
+      213: -1552457006954296206
+    second: EntryMarker_41
+  - first:
+      213: 7751213160248855175
+    second: EntryMarker_42
+  - first:
+      213: 3438831522829843923
+    second: EntryMarker_43
+  - first:
+      213: 8004897728795394660
+    second: EntryMarker_44
+  - first:
+      213: 3360643875179535049
+    second: EntryMarker_45
+  - first:
+      213: 4608864826280390252
+    second: EntryMarker_46
+  - first:
+      213: -8405450298470392443
+    second: EntryMarker_47
+  - first:
+      213: 6170220114068419235
+    second: EntryMarker_48
+  - first:
+      213: -8895585245912762619
+    second: EntryMarker_49
+  - first:
+      213: 7225581946075700681
+    second: EntryMarker_50
+  - first:
+      213: 668614451680540981
+    second: EntryMarker_51
+  - first:
+      213: 8278754723848291806
+    second: EntryMarker_52
+  - first:
+      213: 5330135697283902349
+    second: EntryMarker_53
+  - first:
+      213: 6281537474760274087
+    second: EntryMarker_54
+  - first:
+      213: 1174421881476186731
+    second: EntryMarker_55
+  - first:
+      213: -7861658732590447585
+    second: EntryMarker_56
+  - first:
+      213: -8115352342427939207
+    second: EntryMarker_57
+  - first:
+      213: 4946355624175036408
+    second: EntryMarker_58
+  - first:
+      213: -4982688079086553391
+    second: EntryMarker_59
+  - first:
+      213: 6951367144157139647
+    second: EntryMarker_60
+  - first:
+      213: -980420347161734440
+    second: EntryMarker_61
+  - first:
+      213: -6177514679239453172
+    second: EntryMarker_62
+  - first:
+      213: -4163462341338794522
+    second: EntryMarker_63
+  - first:
+      213: -8116098877905770479
+    second: EntryMarker_64
+  - first:
+      213: -3680049883487736655
+    second: EntryMarker_65
+  - first:
+      213: -5766493049443949371
+    second: EntryMarker_66
+  - first:
+      213: 3449091505861690562
+    second: EntryMarker_67
+  - first:
+      213: -6774266635763624520
+    second: EntryMarker_68
+  - first:
+      213: 7235610651216455597
+    second: EntryMarker_69
+  - first:
+      213: -2362479264516802326
+    second: EntryMarker_70
+  - first:
+      213: 7437145353349059109
+    second: EntryMarker_71
+  - first:
+      213: -9206793190754388756
+    second: EntryMarker_72
+  - first:
+      213: 1936309471197681052
+    second: EntryMarker_73
+  - first:
+      213: -4327594245791599845
+    second: EntryMarker_74
+  - first:
+      213: -1440470549819906619
+    second: EntryMarker_75
+  - first:
+      213: 8000788267041187280
+    second: EntryMarker_76
+  - first:
+      213: -3044524016686576212
+    second: EntryMarker_77
+  - first:
+      213: -8339372669737435368
+    second: EntryMarker_78
+  - first:
+      213: -4781498208366591937
+    second: EntryMarker_79
+  - first:
+      213: -3260065389552920691
+    second: EntryMarker_80
+  - first:
+      213: -5828086420178166102
+    second: EntryMarker_81
+  - first:
+      213: 4195310743436277511
+    second: EntryMarker_82
+  - first:
+      213: -3869154034540738015
+    second: EntryMarker_83
+  - first:
+      213: 4656762648377465427
+    second: EntryMarker_84
+  - first:
+      213: 4790201839756844342
+    second: EntryMarker_85
+  - first:
+      213: -4357101466867100990
+    second: EntryMarker_86
+  - first:
+      213: 7832591528521543532
+    second: EntryMarker_87
+  - first:
+      213: 8356875457334799408
+    second: EntryMarker_88
+  - first:
+      213: 3450609734966838816
+    second: EntryMarker_89
+  - first:
+      213: -5652200147383372661
+    second: EntryMarker_90
+  - first:
+      213: -4167896471652398894
+    second: EntryMarker_91
+  - first:
+      213: 6789528421393224840
+    second: EntryMarker_92
+  - first:
+      213: -8932205254624549846
+    second: EntryMarker_93
+  - first:
+      213: -4536897198900570705
+    second: EntryMarker_94
+  - first:
+      213: -3437902037778127682
+    second: EntryMarker_95
+  - first:
+      213: -8549788170609377827
+    second: EntryMarker_96
+  - first:
+      213: -5546508583319631066
+    second: EntryMarker_97
+  - first:
+      213: 75799670107375190
+    second: EntryMarker_98
+  - first:
+      213: -6957794902491545023
+    second: EntryMarker_99
+  - first:
+      213: 3531528283735550844
+    second: EntryMarker_100
+  - first:
+      213: 2374017309064725449
+    second: EntryMarker_101
+  - first:
+      213: 3433861309321623496
+    second: EntryMarker_102
+  - first:
+      213: 2746439205059204783
+    second: EntryMarker_103
+  - first:
+      213: 7698714932578904245
+    second: EntryMarker_104
+  - first:
+      213: 4244114280980528757
+    second: EntryMarker_105
+  - first:
+      213: 6288475526609522170
+    second: EntryMarker_106
+  - first:
+      213: 8114150176866630472
+    second: EntryMarker_107
+  - first:
+      213: 5160587151595594282
+    second: EntryMarker_108
+  - first:
+      213: 4257360123825499309
+    second: EntryMarker_109
+  - first:
+      213: -8210046281774206152
+    second: EntryMarker_110
+  - first:
+      213: -2049085166500271148
+    second: EntryMarker_111
+  - first:
+      213: 746006931327923768
+    second: EntryMarker_112
+  - first:
+      213: -7704902447013983917
+    second: EntryMarker_113
+  - first:
+      213: -5351399595364401517
+    second: EntryMarker_114
+  - first:
+      213: 5231448350136357447
+    second: EntryMarker_115
+  - first:
+      213: -3250826325903494162
+    second: EntryMarker_116
+  - first:
+      213: 5583830209210831693
+    second: EntryMarker_117
+  - first:
+      213: 5554441705521033109
+    second: EntryMarker_118
+  - first:
+      213: -1353751894915611188
+    second: EntryMarker_119
+  - first:
+      213: -2836257713606792763
+    second: EntryMarker_120
+  - first:
+      213: -873203935035738069
+    second: EntryMarker_121
+  - first:
+      213: -4324333638046145794
+    second: EntryMarker_122
+  - first:
+      213: 6373385504815216397
+    second: EntryMarker_123
+  - first:
+      213: -8684028097280288300
+    second: EntryMarker_124
+  - first:
+      213: 6203582624065870367
+    second: EntryMarker_125
+  - first:
+      213: 4007912794084621091
+    second: EntryMarker_126
+  - first:
+      213: 7456426256097690038
+    second: EntryMarker_127
+  - first:
+      213: -3900288461191520667
+    second: EntryMarker_128
+  - first:
+      213: -1109174939061916332
+    second: EntryMarker_129
+  - first:
+      213: -664395437028843077
+    second: EntryMarker_130
+  - first:
+      213: -7260126927551995016
+    second: EntryMarker_131
+  - first:
+      213: -1086399916438990799
+    second: EntryMarker_132
+  - first:
+      213: 827166334557620712
+    second: EntryMarker_133
+  - first:
+      213: 7814936337011758411
+    second: EntryMarker_134
+  - first:
+      213: -3843947013850432707
+    second: EntryMarker_135
+  - first:
+      213: 7810767704657219170
+    second: EntryMarker_136
+  - first:
+      213: -4805192368467377829
+    second: EntryMarker_137
+  - first:
+      213: -419266176791348420
+    second: EntryMarker_138
+  - first:
+      213: 5915229307027300156
+    second: EntryMarker_139
+  - first:
+      213: -2598843008128464736
+    second: EntryMarker_140
+  - first:
+      213: 6742628792282766314
+    second: EntryMarker_141
+  - first:
+      213: 1345600208620969830
+    second: EntryMarker_142
+  - first:
+      213: 4749491534194127024
+    second: EntryMarker_143
+  - first:
+      213: 3898735033884070231
+    second: EntryMarker_144
+  - first:
+      213: 981172942253667661
+    second: EntryMarker_145
+  - first:
+      213: 2850417450403608436
+    second: EntryMarker_146
+  - first:
+      213: -4278010260562870872
+    second: EntryMarker_147
+  - first:
+      213: 5239046611539225331
+    second: EntryMarker_148
+  - first:
+      213: -5369992489524312613
+    second: EntryMarker_149
+  - first:
+      213: 1989218183007319107
+    second: EntryMarker_150
+  - first:
+      213: 4292439873013353699
+    second: EntryMarker_151
+  - first:
+      213: -7062869421640764160
+    second: EntryMarker_152
+  - first:
+      213: -5892670613877210333
+    second: EntryMarker_153
+  - first:
+      213: 1207712332389617745
+    second: EntryMarker_154
+  - first:
+      213: 6802575411221940311
+    second: EntryMarker_155
+  - first:
+      213: 8616119152671455800
+    second: EntryMarker_156
+  - first:
+      213: -1369539009742636852
+    second: EntryMarker_157
+  - first:
+      213: -3653281061547146755
+    second: EntryMarker_158
+  - first:
+      213: 2753909306647933001
+    second: EntryMarker_159
+  - first:
+      213: 861061206504400484
+    second: EntryMarker_160
+  - first:
+      213: 1127962977413079499
+    second: EntryMarker_161
+  - first:
+      213: 2066510964230661786
+    second: EntryMarker_162
+  - first:
+      213: -1449607369487482298
+    second: EntryMarker_163
+  - first:
+      213: 2549363088524550346
+    second: EntryMarker_164
+  - first:
+      213: 4888335054178392499
+    second: EntryMarker_165
+  - first:
+      213: 4642267163114818454
+    second: EntryMarker_166
+  - first:
+      213: 1449033676799267097
+    second: EntryMarker_167
+  - first:
+      213: -1481875437465430196
+    second: EntryMarker_168
+  - first:
+      213: -5002417082705409207
+    second: EntryMarker_169
+  - first:
+      213: -7956459502016890875
+    second: EntryMarker_170
+  - first:
+      213: 1454009069948359116
+    second: EntryMarker_171
+  - first:
+      213: 9201390466707332959
+    second: EntryMarker_172
+  - first:
+      213: 2081273358190299488
+    second: EntryMarker_173
+  - first:
+      213: 8289632218400533854
+    second: EntryMarker_174
+  - first:
+      213: 9131178222688763425
+    second: EntryMarker_175
+  - first:
+      213: -8271594833782647662
+    second: EntryMarker_176
+  - first:
+      213: 4309034727992649612
+    second: EntryMarker_177
+  - first:
+      213: 9132804050559791767
+    second: EntryMarker_178
+  - first:
+      213: 2969682431548256569
+    second: EntryMarker_179
+  - first:
+      213: 4325818572299205489
+    second: EntryMarker_180
+  - first:
+      213: 8473466998772139588
+    second: EntryMarker_181
+  - first:
+      213: -1696388633359511472
+    second: EntryMarker_182
+  - first:
+      213: -6019295095040225269
+    second: EntryMarker_183
+  - first:
+      213: -7683293439430871131
+    second: EntryMarker_184
+  - first:
+      213: 817153355662771824
+    second: EntryMarker_185
+  - first:
+      213: 6605696233888610448
+    second: EntryMarker_186
+  - first:
+      213: -5081031225497646839
+    second: EntryMarker_187
+  - first:
+      213: -6355092979092767921
+    second: EntryMarker_188
+  - first:
+      213: -4942028866322540759
+    second: EntryMarker_189
+  - first:
+      213: 4092026613476876435
+    second: EntryMarker_190
+  - first:
+      213: -6883062837553034351
+    second: EntryMarker_191
+  - first:
+      213: 8920462862143650665
+    second: EntryMarker_192
+  - first:
+      213: -5444383086108751242
+    second: EntryMarker_193
+  - first:
+      213: -5537998252050694103
+    second: EntryMarker_194
+  - first:
+      213: 7452376648716094125
+    second: EntryMarker_195
+  - first:
+      213: -7006202165348565374
+    second: EntryMarker_196
+  - first:
+      213: 286104594941011149
+    second: EntryMarker_197
+  - first:
+      213: 5570153874030320705
+    second: EntryMarker_198
+  - first:
+      213: -4982344358192729819
+    second: EntryMarker_199
+  - first:
+      213: 1646850034537789854
+    second: EntryMarker_200
+  - first:
+      213: 3655459085123311544
+    second: EntryMarker_201
+  - first:
+      213: 3952448988205015245
+    second: EntryMarker_202
+  - first:
+      213: 1949454216745720536
+    second: EntryMarker_203
+  - first:
+      213: -7503191350803091946
+    second: EntryMarker_204
+  - first:
+      213: -6694874575292957151
+    second: EntryMarker_205
+  - first:
+      213: -8865817092819380193
+    second: EntryMarker_206
+  - first:
+      213: 2125316185915679175
+    second: EntryMarker_207
+  - first:
+      213: 5579374603747090617
+    second: EntryMarker_208
+  - first:
+      213: 246879679118157164
+    second: EntryMarker_209
+  - first:
+      213: -9045493638138781736
+    second: EntryMarker_210
+  - first:
+      213: -3209816247232187260
+    second: EntryMarker_211
+  - first:
+      213: -6763094218162199149
+    second: EntryMarker_212
+  - first:
+      213: 1302895945910967450
+    second: EntryMarker_213
+  - first:
+      213: -3758376066706306585
+    second: EntryMarker_214
+  - first:
+      213: 2130195501319506291
+    second: EntryMarker_215
+  - first:
+      213: 822159304752749144
+    second: EntryMarker_216
+  - first:
+      213: 5725077423910778100
+    second: EntryMarker_217
+  - first:
+      213: -6160817731123428585
+    second: EntryMarker_218
+  - first:
+      213: 5987407180870278228
+    second: EntryMarker_219
+  - first:
+      213: 9142306744495272721
+    second: EntryMarker_220
+  - first:
+      213: 8353641721758379299
+    second: EntryMarker_221
+  - first:
+      213: 6816933435828946044
+    second: EntryMarker_222
+  - first:
+      213: 5379309504580221436
+    second: EntryMarker_223
+  - first:
+      213: -8167716014715308296
+    second: EntryMarker_224
+  - first:
+      213: -5020029352080892006
+    second: EntryMarker_225
+  - first:
+      213: -5681249234403663161
+    second: EntryMarker_226
+  - first:
+      213: -882653123400357283
+    second: EntryMarker_227
+  - first:
+      213: -7398301954167918273
+    second: EntryMarker_228
+  - first:
+      213: -6733196940692877974
+    second: EntryMarker_229
+  - first:
+      213: 267399151625119930
+    second: EntryMarker_230
+  - first:
+      213: -7471746787709653686
+    second: EntryMarker_231
+  - first:
+      213: -5559506296928357251
+    second: EntryMarker_232
+  - first:
+      213: -3477343905848510910
+    second: EntryMarker_233
+  - first:
+      213: 4968488892002239960
+    second: EntryMarker_234
+  - first:
+      213: 2002119214738001362
+    second: EntryMarker_235
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EntryMarker_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 973
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aff42fe763aebb00800000000000000
+      internalID: 846293446781370276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1011
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa944094a63d95f80800000000000000
+      internalID: -8117224399913596497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1017
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd58cadfed227320800000000000000
+      internalID: 2554154446863490550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 968
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271c02f4173d9900800000000000000
+      internalID: 692770480784676642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 969
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8aba95f61157490800000000000000
+      internalID: -7749268413877606182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1017
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f4b889e7e9eba0800000000000000
+      internalID: -6059056833443334627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1004
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fbbfaf32efb42a0800000000000000
+      internalID: -6752023785823813765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 969
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0c33046c368710800000000000000
+      internalID: 1695108710000234134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1015
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2672b286879d8bc70800000000000000
+      internalID: 8987172167584786274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1007
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b0945c4e39a860800000000000000
+      internalID: 7541627548565813598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1009
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8461f3031c6d4d00800000000000000
+      internalID: 958541124626113676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 971
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000d4a54022e6840800000000000000
+      internalID: 5219146420259192835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1005
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f542ae187243cc10800000000000000
+      internalID: 2072573337198020085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 985
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45385168be5d450b0800000000000000
+      internalID: -5740728417446952108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1006
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2485acf99b0fcae50800000000000000
+      internalID: 6822092215599913026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 983
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8848cb6b66c12f430800000000000000
+      internalID: 3815143061814281352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_16
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 989
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a1e7b8236677d0800000000000000
+      internalID: -2921038281768327958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_17
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1007
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a00750e5a0195e50800000000000000
+      internalID: 6798483417111920808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1014
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a988de04e79dfe0800000000000000
+      internalID: -1163760211370403322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1009
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9172d9e6d0f112d40800000000000000
+      internalID: 5557757557702731545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1004
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6c2086eeb42550800000000000000
+      internalID: 6135238489587609157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 977
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951abf57109e6780800000000000000
+      internalID: -8687848201086429799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1004
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f138f15a98b1220800000000000000
+      internalID: 2457709363952033679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_23
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 984
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0fffe0c079b150800000000000000
+      internalID: 5888861961726134965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1017
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fde73c2b884c90800000000000000
+      internalID: -7185340183436463918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_25
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1007
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8840434db27790800000000000000
+      internalID: -7533751130098462818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1005
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a81f7ae10759f0800000000000000
+      internalID: -479912728625372609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_27
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1004
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7316223bcde3d920800000000000000
+      internalID: 3014014032616493949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_28
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1011
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f2847f84f26920800000000000000
+      internalID: 2982214800244930676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_29
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1004
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867d5f3560e70c20800000000000000
+      internalID: 3172751187965212294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e0bd0e8ca40340800000000000000
+      internalID: 4829174426563043670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 985
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb016047b355ece60800000000000000
+      internalID: 7984412903212454076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 983
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f73fe810c43330800000000000000
+      internalID: 3689785208048449672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 986
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af86f6c8290bb90800000000000000
+      internalID: -7228116270067418562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e555a6cb8404e6e0800000000000000
+      internalID: -1809316151916407324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 985
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753da1c0298ee3d60800000000000000
+      internalID: 7871984912656159575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 984
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7c79b62b40cb00800000000000000
+      internalID: 846759359638437849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 985
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76451aecf0fe620800000000000000
+      internalID: 2805478473019451373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 983
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796949d46c13ead60800000000000000
+      internalID: 7903309123856668311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 984
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a75ebce738a509b0800000000000000
+      internalID: -5114496843660765271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 984
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da6e7fb8f99e780800000000000000
+      internalID: -8653209785507336842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 991
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4c63d390947ae0800000000000000
+      internalID: -1552457006954296206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 986
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a47f23d47d19b60800000000000000
+      internalID: 7751213160248855175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_43
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 969
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd30b0ec0f29bf20800000000000000
+      internalID: 3438831522829843923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_44
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 991
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4624e24921c171f60800000000000000
+      internalID: 8004897728795394660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_45
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 989
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1bac8cc763ae20800000000000000
+      internalID: 3360643875179535049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_46
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 984
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e2c34042af5ff30800000000000000
+      internalID: 4608864826280390252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_47
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 987
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d987ecc77d95b80800000000000000
+      internalID: -8405450298470392443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_48
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 983
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b405a08601a550800000000000000
+      internalID: 6170220114068419235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_49
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 991
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507f92489588c8480800000000000000
+      internalID: -8895585245912762619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_50
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 979
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd51574f7c664460800000000000000
+      internalID: 7225581946075700681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_51
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 989
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5397c142d45674900800000000000000
+      internalID: 668614451680540981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 924
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed580910f8b04e270800000000000000
+      internalID: 8278754723848291806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_53
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 991
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6c392d2278f940800000000000000
+      internalID: 5330135697283902349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 973
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f3626d018c2750800000000000000
+      internalID: 6281537474760274087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 971
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6285d59a726c4010800000000000000
+      internalID: 1174421881476186731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 969
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14499a1907c5e290800000000000000
+      internalID: -7861658732590447585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 976
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec272aa0a706f80800000000000000
+      internalID: -8115352342427939207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_58
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 977
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f765b7bb3cf4a440800000000000000
+      internalID: 4946355624175036408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 969
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f87b679fe9dab0800000000000000
+      internalID: -4982688079086553391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 968
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2dec27697387060800000000000000
+      internalID: 6951367144157139647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 970
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21cd483e8d462f0800000000000000
+      internalID: -980420347161734440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_62
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 973
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06db2d012f054aa0800000000000000
+      internalID: -6177514679239453172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 971
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f8cc3f096836c0800000000000000
+      internalID: -4163462341338794522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 969
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ea7c4213dd5f80800000000000000
+      internalID: -8116098877905770479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_65
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 968
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bceef2f026ddecc0800000000000000
+      internalID: -3680049883487736655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_66
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 969
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4622caf1d49ffa0800000000000000
+      internalID: -5766493049443949371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 969
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c404b45372addf20800000000000000
+      internalID: 3449091505861690562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_68
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 971
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55789e268fcf1a0800000000000000
+      internalID: -6774266635763624520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_69
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 968
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da72ac62d8d0a6460800000000000000
+      internalID: 7235610651216455597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_70
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 969
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ff3930a9c63fd0800000000000000
+      internalID: -2362479264516802326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_71
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 971
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52251519b4c063760800000000000000
+      internalID: 7437145353349059109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_72
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 969
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce479986f56ea3080800000000000000
+      internalID: -9206793190754388756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_73
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 968
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9556fd74372fda10800000000000000
+      internalID: 1936309471197681052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 969
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13319746fb41f3c0800000000000000
+      internalID: -4327594245791599845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_75
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 957
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a298baab620ce0800000000000000
+      internalID: -1440470549819906619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 965
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d56a14f982880f60800000000000000
+      internalID: 8000788267041187280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 969
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad4043998dafb5d0800000000000000
+      internalID: -3044524016686576212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 969
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff2b2adb8944c80800000000000000
+      internalID: -8339372669737435368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1023
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30842486b4b4adb0800000000000000
+      internalID: -4781498208366591937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 949
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87172ffccbe1c2d0800000000000000
+      internalID: -3260065389552920691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 922
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9005874a7e1fa0800000000000000
+      internalID: -5828086420178166102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_82
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 922
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70736e8b4ecb83a30800000000000000
+      internalID: 4195310743436277511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_83
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 928
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0eedb7e00e4ac0800000000000000
+      internalID: -3869154034540738015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a98d3c4f420a040800000000000000
+      internalID: 4656762648377465427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 902
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d112591373a7240800000000000000
+      internalID: 4790201839756844342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_86
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 870
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c29d010d477883c0800000000000000
+      internalID: -4357101466867100990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_87
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 901
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fa2401f74f2bc60800000000000000
+      internalID: 7832591528521543532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_88
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 881
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cee9aa3f599f370800000000000000
+      internalID: 8356875457334799408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_89
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 889
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260437954703ef20800000000000000
+      internalID: 3450609734966838816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bdcf99e95f81b0800000000000000
+      internalID: -5652200147383372661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80e82dd38a826c0800000000000000
+      internalID: -4167896471652398894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_92
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 840
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884df857020493e50800000000000000
+      internalID: 6789528421393224840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e93155ae6a0480800000000000000
+      internalID: -8932205254624549846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_94
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 820
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5111df804b901c0800000000000000
+      internalID: -4536897198900570705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_95
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 841
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a4a9bf4e1a40d0800000000000000
+      internalID: -3437902037778127682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_96
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 831
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddbdf125fc095980800000000000000
+      internalID: -8549788170609377827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_97
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 823
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b049384d7d603b0800000000000000
+      internalID: -5546508583319631066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 799
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65687daf56b4d0100800000000000000
+      internalID: 75799670107375190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 809
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142c7f07662f07f90800000000000000
+      internalID: -6957794902491545023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_100
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 799
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6d426342820130800000000000000
+      internalID: 3531528283735550844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38e6d1a2432f020800000000000000
+      internalID: 2374017309064725449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 765
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7b21edaa687af20800000000000000
+      internalID: 3433861309321623496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_103
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 759
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa692ced7ef4d1620800000000000000
+      internalID: 2746439205059204783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_104
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 743
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b86c5f017457da60800000000000000
+      internalID: 7698714932578904245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_105
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 758
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb108c37f16ea30800000000000000
+      internalID: 4244114280980528757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_106
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 758
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4c467c27254750800000000000000
+      internalID: 6288475526609522170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfe4268904b9070800000000000000
+      internalID: 8114150176866630472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 738
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ec432ca61e9740800000000000000
+      internalID: 5160587151595594282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_109
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2885e97e251b30800000000000000
+      internalID: 4257360123825499309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_110
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 737
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833f459c76e001e80800000000000000
+      internalID: -8210046281774206152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_111
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 738
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbaa38c5ef2093e0800000000000000
+      internalID: -2049085166500271148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 723
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836b7cdf9595a5a00800000000000000
+      internalID: 746006931327923768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_113
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 699
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35981b8fb00b21590800000000000000
+      internalID: -7704902447013983917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_114
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 703
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb223cb620cb5b0800000000000000
+      internalID: -5351399595364401517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_115
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425eaa9e86d99840800000000000000
+      internalID: 5231448350136357447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_116
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 676
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3b8022eaeb2e2d0800000000000000
+      internalID: -3250826325903494162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_117
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 683
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435b1aadffbd7d40800000000000000
+      internalID: 5583830209210831693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_118
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 676
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f223f6d47551d40800000000000000
+      internalID: 5554441705521033109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_119
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 676
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50b85f2d1863de0800000000000000
+      internalID: -1353751894915611188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 665
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c96109f2a693a8d0800000000000000
+      internalID: -2836257713606792763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 663
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b8b3c5a1c1e3f0800000000000000
+      internalID: -873203935035738069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2acfda771ecf3c0800000000000000
+      internalID: -4324333638046145794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_123
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 635
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0772275950d27850800000000000000
+      internalID: 6373385504815216397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_124
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 635
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9d81a94722c7780800000000000000
+      internalID: -8684028097280288300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_125
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 635
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5b32578d871650800000000000000
+      internalID: 6203582624065870367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 626
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b382e8377fe9730800000000000000
+      internalID: 4007912794084621091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_127
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 621
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b149909c2c8a7760800000000000000
+      internalID: 7456426256097690038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_128
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 625
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56edf152f446fd9c0800000000000000
+      internalID: -3900288461191520667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_129
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 615
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de273054b6b90f0800000000000000
+      internalID: -1109174939061916332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 617
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb16181ced797c6f0800000000000000
+      internalID: -664395437028843077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 617
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e3037609de3b90800000000000000
+      internalID: -7260126927551995016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 597
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d3a038055ce0f0800000000000000
+      internalID: -1086399916438990799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_133
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 605
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e90875166faa7b00800000000000000
+      internalID: 827166334557620712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_134
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 595
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d0e5713b347c60800000000000000
+      internalID: 7814936337011758411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b75089e8e87aac0800000000000000
+      internalID: -3843947013850432707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_136
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 577
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ecf2b18db656c60800000000000000
+      internalID: 7810767704657219170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_137
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 559
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b518518fff6805db0800000000000000
+      internalID: -4805192368467377829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_138
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 553
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf30232a77e2af0800000000000000
+      internalID: -419266176791348420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f975ae6bd171250800000000000000
+      internalID: 5915229307027300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_140
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 533
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ce79ad0e0febd0800000000000000
+      internalID: -2598843008128464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_141
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 513
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd550a921a29d50800000000000000
+      internalID: 6742628792282766314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_142
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 513
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5b8ca2488ca210800000000000000
+      internalID: 1345600208620969830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_143
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0bd5fe26599e140800000000000000
+      internalID: 4749491534194127024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_144
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 503
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751d7006bd61b1630800000000000000
+      internalID: 3898735033884070231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45314ea793dd9d00800000000000000
+      internalID: 981172942253667661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_146
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 443
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b1e8a197be8720800000000000000
+      internalID: 2850417450403608436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 430
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7ca9755471a4c0800000000000000
+      internalID: -4278010260562870872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_148
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 431
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6282b225d4b840800000000000000
+      internalID: 5239046611539225331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_149
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 411
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5436f3844f975b0800000000000000
+      internalID: -5369992489524312613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_150
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 423
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34436eae56f1b9b10800000000000000
+      internalID: 1989218183007319107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_151
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 411
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec0faa725fc19b30800000000000000
+      internalID: 4292439873013353699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 410
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00532248ea5abfd90800000000000000
+      internalID: -7062869421640764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_153
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32347712c47093ea0800000000000000
+      internalID: -5892670613877210333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_154
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 400
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15011f2b7f7a2c010800000000000000
+      internalID: 1207712332389617745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758c0bf7b4a976e50800000000000000
+      internalID: 6802575411221940311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_156
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 401
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83afb6d18ba929770800000000000000
+      internalID: 8616119152671455800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_157
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ff3ad68b6efce0800000000000000
+      internalID: -1369539009742636852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_158
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 390
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df102ddfa30fc4dc0800000000000000
+      internalID: -3653281061547146755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_159
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 389
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940746e6ce9d73620800000000000000
+      internalID: 2753909306647933001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_160
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 389
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466609fea9a13fb00800000000000000
+      internalID: 861061206504400484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_161
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 379
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1af7c0a5457af00800000000000000
+      internalID: 1127962977413079499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962b6be5c8bdac10800000000000000
+      internalID: 2066510964230661786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_163
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 312
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64209ed17c5f1ebe0800000000000000
+      internalID: -1449607369487482298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_164
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0affec838216320800000000000000
+      internalID: 2549363088524550346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_165
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9946f05dad6d340800000000000000
+      internalID: 4888335054178392499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_166
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b4be99365ac6040800000000000000
+      internalID: 4642267163114818454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d235a3700c1410800000000000000
+      internalID: 1449033676799267097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c471f7414225f6be0800000000000000
+      internalID: -1481875437465430196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_169
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 211
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b8ffeca28d39ab0800000000000000
+      internalID: -5002417082705409207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_170
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 206
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5087080fc3af49190800000000000000
+      internalID: -7956459502016890875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_171
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1d772ab8dad2410800000000000000
+      internalID: 1454009069948359116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_172
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 184
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f91cfd0e7e1bf70800000000000000
+      internalID: 9201390466707332959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_173
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ca6b971b22ec10800000000000000
+      internalID: 2081273358190299488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_174
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da5601590ba0370800000000000000
+      internalID: 8289632218400533854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_175
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e7528e63678be70800000000000000
+      internalID: 9131178222688763425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_176
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dd6ec254653d80800000000000000
+      internalID: -8271594833782647662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_177
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 123
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e2de3144cccb30800000000000000
+      internalID: 4309034727992649612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_178
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 105
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927dd475ec3ebe70800000000000000
+      internalID: 9132804050559791767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_179
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 46
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f62cff6e663920800000000000000
+      internalID: 2969682431548256569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_180
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 41
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7ea48215680c30800000000000000
+      internalID: 4325818572299205489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_181
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 41
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460fcd475dc79570800000000000000
+      internalID: 8473466998772139588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_182
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 41
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050989b96873578e0800000000000000
+      internalID: -1696388633359511472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_183
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 43
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0050eda00b277ca0800000000000000
+      internalID: -6019295095040225269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_184
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 45
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a732ad13557f5590800000000000000
+      internalID: -7683293439430871131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_185
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764c43c5ac175b00800000000000000
+      internalID: 817153355662771824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_186
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f01be9b52cab50800000000000000
+      internalID: 6605696233888610448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_187
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098b87550d8c79b0800000000000000
+      internalID: -5081031225497646839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_188
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb8923b9c2ec7a0800000000000000
+      internalID: -6355092979092767921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_189
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 47
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9275e191ee26a6bb0800000000000000
+      internalID: -4942028866322540759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_190
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ebb3468cc9c830800000000000000
+      internalID: 4092026613476876435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_191
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 42
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b85f831d27a70a0800000000000000
+      internalID: -6883062837553034351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_192
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 41
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf222e5b9dbcb70800000000000000
+      internalID: 8920462862143650665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_193
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac753cd6aa174b0800000000000000
+      internalID: -5444383086108751242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_194
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c8cb6ee31523b0800000000000000
+      internalID: -5537998252050694103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_195
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa832fd3192c6760800000000000000
+      internalID: 7452376648716094125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_196
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 23
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e73d54048f4ce90800000000000000
+      internalID: -7006202165348565374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_197
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e01efc9278f300800000000000000
+      internalID: 286104594941011149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_198
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 34
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd7ddbf692d4d40800000000000000
+      internalID: 5570153874030320705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_199
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521304d24382bdab0800000000000000
+      internalID: -4982344358192729819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_200
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 24
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f6fa8169cad610800000000000000
+      internalID: 1646850034537789854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_201
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 23
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7dfb3abaccab230800000000000000
+      internalID: 3655459085123311544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_202
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 28
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0efcee96be9d630800000000000000
+      internalID: 3952448988205015245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_203
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 23
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da140f084add0b10800000000000000
+      internalID: 1949454216745720536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_204
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2995583f4fd790800000000000000
+      internalID: -7503191350803091946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_205
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e7ed37b070713a0800000000000000
+      internalID: -6694874575292957151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_206
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181ae2c35a46f480800000000000000
+      internalID: -8865817092819380193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_207
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c164e88fc3ae7d10800000000000000
+      internalID: 2125316185915679175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_208
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b06e2d24abed6d40800000000000000
+      internalID: 5579374603747090617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_209
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a91892c71d6300800000000000000
+      internalID: 246879679118157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_210
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 25
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df9ea01673f77280800000000000000
+      internalID: -9045493638138781736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_211
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 21
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484b27521217473d0800000000000000
+      internalID: -3209816247232187260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_212
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 23
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a1f714a9a422a0800000000000000
+      internalID: -6763094218162199149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_213
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd153b5f0d41210800000000000000
+      internalID: 1302895945910967450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_214
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e904ab41e097dbc0800000000000000
+      internalID: -3758376066706306585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_215
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379c84ea589ff8d10800000000000000
+      internalID: 2130195501319506291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_216
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad19c1885e86b00800000000000000
+      internalID: 822159304752749144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_217
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47fc3959f837f40800000000000000
+      internalID: 5725077423910778100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_218
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c57a3ae0608aa0800000000000000
+      internalID: -6160817731123428585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_219
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c556dbb1b871350800000000000000
+      internalID: 5987407180870278228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_220
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1137c4dcb8fffde70800000000000000
+      internalID: 9142306744495272721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_221
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 7
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6a4ee2e81ee370800000000000000
+      internalID: 8353641721758379299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_222
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74411c97dc9a9e50800000000000000
+      internalID: 6816933435828946044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_223
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f26d5e7527aa40800000000000000
+      internalID: 5379309504580221436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_224
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ff9c1f8176ae80800000000000000
+      internalID: -8167716014715308296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_225
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1f2bc6e5455ab0800000000000000
+      internalID: -5020029352080892006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_226
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2e8eefbe52821b0800000000000000
+      internalID: -5681249234403663161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_227
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a25d729af20c3f0800000000000000
+      internalID: -882653123400357283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_228
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 5
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313eb01293f35990800000000000000
+      internalID: -7398301954167918273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_229
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d01437e01ee82a0800000000000000
+      internalID: -6733196940692877974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_230
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82bd59c1ef5b300800000000000000
+      internalID: 267399151625119930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_231
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d66e232e50f4890800000000000000
+      internalID: -7471746787709653686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_232
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b90d7a7aa8d2b0800000000000000
+      internalID: -5559506296928357251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_233
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b702342efdbfc0800000000000000
+      internalID: -3477343905848510910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_234
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d58446b25e93f440800000000000000
+      internalID: 4968488892002239960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntryMarker_235
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd417071d4f8cb10800000000000000
+      internalID: 2002119214738001362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EntryMarker_0: 846293446781370276
+      EntryMarker_1: -8117224399913596497
+      EntryMarker_10: 958541124626113676
+      EntryMarker_100: 3531528283735550844
+      EntryMarker_101: 2374017309064725449
+      EntryMarker_102: 3433861309321623496
+      EntryMarker_103: 2746439205059204783
+      EntryMarker_104: 7698714932578904245
+      EntryMarker_105: 4244114280980528757
+      EntryMarker_106: 6288475526609522170
+      EntryMarker_107: 8114150176866630472
+      EntryMarker_108: 5160587151595594282
+      EntryMarker_109: 4257360123825499309
+      EntryMarker_11: 5219146420259192835
+      EntryMarker_110: -8210046281774206152
+      EntryMarker_111: -2049085166500271148
+      EntryMarker_112: 746006931327923768
+      EntryMarker_113: -7704902447013983917
+      EntryMarker_114: -5351399595364401517
+      EntryMarker_115: 5231448350136357447
+      EntryMarker_116: -3250826325903494162
+      EntryMarker_117: 5583830209210831693
+      EntryMarker_118: 5554441705521033109
+      EntryMarker_119: -1353751894915611188
+      EntryMarker_12: 2072573337198020085
+      EntryMarker_120: -2836257713606792763
+      EntryMarker_121: -873203935035738069
+      EntryMarker_122: -4324333638046145794
+      EntryMarker_123: 6373385504815216397
+      EntryMarker_124: -8684028097280288300
+      EntryMarker_125: 6203582624065870367
+      EntryMarker_126: 4007912794084621091
+      EntryMarker_127: 7456426256097690038
+      EntryMarker_128: -3900288461191520667
+      EntryMarker_129: -1109174939061916332
+      EntryMarker_13: -5740728417446952108
+      EntryMarker_130: -664395437028843077
+      EntryMarker_131: -7260126927551995016
+      EntryMarker_132: -1086399916438990799
+      EntryMarker_133: 827166334557620712
+      EntryMarker_134: 7814936337011758411
+      EntryMarker_135: -3843947013850432707
+      EntryMarker_136: 7810767704657219170
+      EntryMarker_137: -4805192368467377829
+      EntryMarker_138: -419266176791348420
+      EntryMarker_139: 5915229307027300156
+      EntryMarker_14: 6822092215599913026
+      EntryMarker_140: -2598843008128464736
+      EntryMarker_141: 6742628792282766314
+      EntryMarker_142: 1345600208620969830
+      EntryMarker_143: 4749491534194127024
+      EntryMarker_144: 3898735033884070231
+      EntryMarker_145: 981172942253667661
+      EntryMarker_146: 2850417450403608436
+      EntryMarker_147: -4278010260562870872
+      EntryMarker_148: 5239046611539225331
+      EntryMarker_149: -5369992489524312613
+      EntryMarker_15: 3815143061814281352
+      EntryMarker_150: 1989218183007319107
+      EntryMarker_151: 4292439873013353699
+      EntryMarker_152: -7062869421640764160
+      EntryMarker_153: -5892670613877210333
+      EntryMarker_154: 1207712332389617745
+      EntryMarker_155: 6802575411221940311
+      EntryMarker_156: 8616119152671455800
+      EntryMarker_157: -1369539009742636852
+      EntryMarker_158: -3653281061547146755
+      EntryMarker_159: 2753909306647933001
+      EntryMarker_16: -2921038281768327958
+      EntryMarker_160: 861061206504400484
+      EntryMarker_161: 1127962977413079499
+      EntryMarker_162: 2066510964230661786
+      EntryMarker_163: -1449607369487482298
+      EntryMarker_164: 2549363088524550346
+      EntryMarker_165: 4888335054178392499
+      EntryMarker_166: 4642267163114818454
+      EntryMarker_167: 1449033676799267097
+      EntryMarker_168: -1481875437465430196
+      EntryMarker_169: -5002417082705409207
+      EntryMarker_17: 6798483417111920808
+      EntryMarker_170: -7956459502016890875
+      EntryMarker_171: 1454009069948359116
+      EntryMarker_172: 9201390466707332959
+      EntryMarker_173: 2081273358190299488
+      EntryMarker_174: 8289632218400533854
+      EntryMarker_175: 9131178222688763425
+      EntryMarker_176: -8271594833782647662
+      EntryMarker_177: 4309034727992649612
+      EntryMarker_178: 9132804050559791767
+      EntryMarker_179: 2969682431548256569
+      EntryMarker_18: -1163760211370403322
+      EntryMarker_180: 4325818572299205489
+      EntryMarker_181: 8473466998772139588
+      EntryMarker_182: -1696388633359511472
+      EntryMarker_183: -6019295095040225269
+      EntryMarker_184: -7683293439430871131
+      EntryMarker_185: 817153355662771824
+      EntryMarker_186: 6605696233888610448
+      EntryMarker_187: -5081031225497646839
+      EntryMarker_188: -6355092979092767921
+      EntryMarker_189: -4942028866322540759
+      EntryMarker_19: 5557757557702731545
+      EntryMarker_190: 4092026613476876435
+      EntryMarker_191: -6883062837553034351
+      EntryMarker_192: 8920462862143650665
+      EntryMarker_193: -5444383086108751242
+      EntryMarker_194: -5537998252050694103
+      EntryMarker_195: 7452376648716094125
+      EntryMarker_196: -7006202165348565374
+      EntryMarker_197: 286104594941011149
+      EntryMarker_198: 5570153874030320705
+      EntryMarker_199: -4982344358192729819
+      EntryMarker_2: 2554154446863490550
+      EntryMarker_20: 6135238489587609157
+      EntryMarker_200: 1646850034537789854
+      EntryMarker_201: 3655459085123311544
+      EntryMarker_202: 3952448988205015245
+      EntryMarker_203: 1949454216745720536
+      EntryMarker_204: -7503191350803091946
+      EntryMarker_205: -6694874575292957151
+      EntryMarker_206: -8865817092819380193
+      EntryMarker_207: 2125316185915679175
+      EntryMarker_208: 5579374603747090617
+      EntryMarker_209: 246879679118157164
+      EntryMarker_21: -8687848201086429799
+      EntryMarker_210: -9045493638138781736
+      EntryMarker_211: -3209816247232187260
+      EntryMarker_212: -6763094218162199149
+      EntryMarker_213: 1302895945910967450
+      EntryMarker_214: -3758376066706306585
+      EntryMarker_215: 2130195501319506291
+      EntryMarker_216: 822159304752749144
+      EntryMarker_217: 5725077423910778100
+      EntryMarker_218: -6160817731123428585
+      EntryMarker_219: 5987407180870278228
+      EntryMarker_22: 2457709363952033679
+      EntryMarker_220: 9142306744495272721
+      EntryMarker_221: 8353641721758379299
+      EntryMarker_222: 6816933435828946044
+      EntryMarker_223: 5379309504580221436
+      EntryMarker_224: -8167716014715308296
+      EntryMarker_225: -5020029352080892006
+      EntryMarker_226: -5681249234403663161
+      EntryMarker_227: -882653123400357283
+      EntryMarker_228: -7398301954167918273
+      EntryMarker_229: -6733196940692877974
+      EntryMarker_23: 5888861961726134965
+      EntryMarker_230: 267399151625119930
+      EntryMarker_231: -7471746787709653686
+      EntryMarker_232: -5559506296928357251
+      EntryMarker_233: -3477343905848510910
+      EntryMarker_234: 4968488892002239960
+      EntryMarker_235: 2002119214738001362
+      EntryMarker_24: -7185340183436463918
+      EntryMarker_25: -7533751130098462818
+      EntryMarker_26: -479912728625372609
+      EntryMarker_27: 3014014032616493949
+      EntryMarker_28: 2982214800244930676
+      EntryMarker_29: 3172751187965212294
+      EntryMarker_3: 692770480784676642
+      EntryMarker_30: 4829174426563043670
+      EntryMarker_31: 7984412903212454076
+      EntryMarker_32: 3689785208048449672
+      EntryMarker_33: -7228116270067418562
+      EntryMarker_34: -1809316151916407324
+      EntryMarker_35: 7871984912656159575
+      EntryMarker_36: 846759359638437849
+      EntryMarker_37: 2805478473019451373
+      EntryMarker_38: 7903309123856668311
+      EntryMarker_39: -5114496843660765271
+      EntryMarker_4: -7749268413877606182
+      EntryMarker_40: -8653209785507336842
+      EntryMarker_41: -1552457006954296206
+      EntryMarker_42: 7751213160248855175
+      EntryMarker_43: 3438831522829843923
+      EntryMarker_44: 8004897728795394660
+      EntryMarker_45: 3360643875179535049
+      EntryMarker_46: 4608864826280390252
+      EntryMarker_47: -8405450298470392443
+      EntryMarker_48: 6170220114068419235
+      EntryMarker_49: -8895585245912762619
+      EntryMarker_5: -6059056833443334627
+      EntryMarker_50: 7225581946075700681
+      EntryMarker_51: 668614451680540981
+      EntryMarker_52: 8278754723848291806
+      EntryMarker_53: 5330135697283902349
+      EntryMarker_54: 6281537474760274087
+      EntryMarker_55: 1174421881476186731
+      EntryMarker_56: -7861658732590447585
+      EntryMarker_57: -8115352342427939207
+      EntryMarker_58: 4946355624175036408
+      EntryMarker_59: -4982688079086553391
+      EntryMarker_6: -6752023785823813765
+      EntryMarker_60: 6951367144157139647
+      EntryMarker_61: -980420347161734440
+      EntryMarker_62: -6177514679239453172
+      EntryMarker_63: -4163462341338794522
+      EntryMarker_64: -8116098877905770479
+      EntryMarker_65: -3680049883487736655
+      EntryMarker_66: -5766493049443949371
+      EntryMarker_67: 3449091505861690562
+      EntryMarker_68: -6774266635763624520
+      EntryMarker_69: 7235610651216455597
+      EntryMarker_7: 1695108710000234134
+      EntryMarker_70: -2362479264516802326
+      EntryMarker_71: 7437145353349059109
+      EntryMarker_72: -9206793190754388756
+      EntryMarker_73: 1936309471197681052
+      EntryMarker_74: -4327594245791599845
+      EntryMarker_75: -1440470549819906619
+      EntryMarker_76: 8000788267041187280
+      EntryMarker_77: -3044524016686576212
+      EntryMarker_78: -8339372669737435368
+      EntryMarker_79: -4781498208366591937
+      EntryMarker_8: 8987172167584786274
+      EntryMarker_80: -3260065389552920691
+      EntryMarker_81: -5828086420178166102
+      EntryMarker_82: 4195310743436277511
+      EntryMarker_83: -3869154034540738015
+      EntryMarker_84: 4656762648377465427
+      EntryMarker_85: 4790201839756844342
+      EntryMarker_86: -4357101466867100990
+      EntryMarker_87: 7832591528521543532
+      EntryMarker_88: 8356875457334799408
+      EntryMarker_89: 3450609734966838816
+      EntryMarker_9: 7541627548565813598
+      EntryMarker_90: -5652200147383372661
+      EntryMarker_91: -4167896471652398894
+      EntryMarker_92: 6789528421393224840
+      EntryMarker_93: -8932205254624549846
+      EntryMarker_94: -4536897198900570705
+      EntryMarker_95: -3437902037778127682
+      EntryMarker_96: -8549788170609377827
+      EntryMarker_97: -5546508583319631066
+      EntryMarker_98: 75799670107375190
+      EntryMarker_99: -6957794902491545023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
