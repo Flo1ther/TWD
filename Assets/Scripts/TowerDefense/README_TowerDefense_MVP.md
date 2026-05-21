@@ -49,3 +49,12 @@ After generated PNGs are sliced into `Assets/Resources/TowerDefense/Sprites`, ru
 1. Tune final numeric balance after playtesting all 10 rounds.
 2. Add a final report section for used assets and gameplay screenshots.
 3. Create and verify the WebGL build.
+
+## Runtime script structure
+
+- `RuntimeTowerDefenseBootstrap.cs`: creates the runtime scene and loads default data.
+- `TowerDefenseGame.cs`: owns the state machine, economy, waves, HUD, audio, and battle loop.
+- `Tower.cs`, `Enemy.cs`, and `Projectile.cs`: gameplay actors.
+- `ImpactEffect.cs` and `GoldRewardEffect.cs`: battle feedback effects.
+- `SpriteLoader.cs` and `SpriteFactory.cs`: generated art loading and fallback sprites.
+- `TowerDefenseData.cs`: ScriptableObject-friendly tower and enemy definitions.

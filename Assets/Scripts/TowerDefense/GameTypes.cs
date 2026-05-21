@@ -11,6 +11,8 @@ using UnityEngine.InputSystem.UI;
 #endif
 namespace TowerDefense
 {
-    // Runtime tower defense implementation is split across focused files in this folder.
+public enum GamePhase { Menu, Preparation, Battle, RoundEnd, GameOver }
+    public enum TowerKind { Archer, Mage, Freezer, Cannon }
+    public enum EnemyKind { Goblin, Orc, Ghost }
 }
 

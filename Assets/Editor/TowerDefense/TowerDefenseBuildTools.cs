@@ -17,7 +17,7 @@ public static class TowerDefenseBuildTools
         };
 
         PlayerSettings.WebGL.compressionFormat = WebGLCompressionFormat.Disabled;
-        PlayerSettings.WebGL.dataCaching = true;
+        PlayerSettings.WebGL.dataCaching = false;
         PlayerSettings.runInBackground = true;
         PlayerSettings.productName = "Tower Defense";
         PlayerSettings.companyName = "Student Project";

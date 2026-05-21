@@ -15,14 +15,14 @@ public static class TowerDefenseDataGenerator
         Directory.CreateDirectory(EnemyFolder);
         AssetDatabase.Refresh();
 
-        CreateOrUpdateTower("Archer", new TowerDefinition { kind = TowerKind.Archer, price = 100, range = 2.9f, fireRate = 1.45f, damage = 20f, color = new Color(0.36f, 0.76f, 0.42f) });
+        CreateOrUpdateTower("Archer", new TowerDefinition { kind = TowerKind.Archer, price = 100, range = 2.75f, fireRate = 1.35f, damage = 18f, color = new Color(0.36f, 0.76f, 0.42f) });
         CreateOrUpdateTower("Mage", new TowerDefinition { kind = TowerKind.Mage, price = 150, range = 1.9f, fireRate = 0.7f, damage = 18f, splashRadius = 0.85f, color = new Color(0.55f, 0.4f, 0.95f) });
         CreateOrUpdateTower("Freezer", new TowerDefinition { kind = TowerKind.Freezer, price = 120, range = 2.4f, fireRate = 0.95f, damage = 4f, slowPercent = 0.45f, slowDuration = 1.8f, color = new Color(0.32f, 0.78f, 0.94f) });
         CreateOrUpdateTower("Cannon", new TowerDefinition { kind = TowerKind.Cannon, price = 200, range = 3.25f, fireRate = 0.45f, damage = 55f, color = new Color(0.93f, 0.56f, 0.26f) });
 
-        CreateOrUpdateEnemy("Goblin", new EnemyDefinition { kind = EnemyKind.Goblin, maxHealth = 45f, speed = 1.65f, attackCost = 10, goldReward = 8, color = new Color(0.44f, 0.86f, 0.34f) });
-        CreateOrUpdateEnemy("Orc", new EnemyDefinition { kind = EnemyKind.Orc, maxHealth = 140f, speed = 0.72f, attackCost = 25, goldReward = 18, color = new Color(0.74f, 0.47f, 0.31f) });
-        CreateOrUpdateEnemy("Ghost", new EnemyDefinition { kind = EnemyKind.Ghost, maxHealth = 80f, speed = 1.05f, attackCost = 20, goldReward = 14, color = new Color(0.78f, 0.86f, 1f), ignoresSlow = true });
+        CreateOrUpdateEnemy("Goblin", new EnemyDefinition { kind = EnemyKind.Goblin, maxHealth = 50f, speed = 1.72f, attackCost = 10, goldReward = 7, color = new Color(0.44f, 0.86f, 0.34f) });
+        CreateOrUpdateEnemy("Orc", new EnemyDefinition { kind = EnemyKind.Orc, maxHealth = 160f, speed = 0.76f, attackCost = 25, goldReward = 16, color = new Color(0.74f, 0.47f, 0.31f) });
+        CreateOrUpdateEnemy("Ghost", new EnemyDefinition { kind = EnemyKind.Ghost, maxHealth = 95f, speed = 1.12f, attackCost = 20, goldReward = 12, color = new Color(0.78f, 0.86f, 1f), ignoresSlow = true });
 
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();

@@ -11,6 +11,16 @@ using UnityEngine.InputSystem.UI;
 #endif
 namespace TowerDefense
 {
-    // Runtime tower defense implementation is split across focused files in this folder.
+public readonly struct TowerSlot
+    {
+        public TowerSlot(int id, Vector3 position)
+        {
+            Id = id;
+            Position = position;
+        }
+
+        public int Id { get; }
+        public Vector3 Position { get; }
+    }
 }
 

@@ -42,6 +42,15 @@ public static class TowerDefenseArtImporter
         ConfigureSprite("BaseMarker");
         ConfigureSprite("EntryPortal");
         ConfigureSprite("DefenderBase");
+        ConfigureSprite("Coin");
+        ConfigureSprite("HudStatPlate");
+        ConfigureSprite("HudWaveShield");
+        ConfigureSprite("HudActionButton");
+        ConfigureSprite("HudSmallButton");
+        ConfigureSprite("UpgradePlate");
+        ConfigureSprite("UpgradeDamage");
+        ConfigureSprite("UpgradeRange");
+        ConfigureSprite("UpgradeSpeed");
 
         TowerDefenseDataGenerator.CreateDefaultDataAssets();
         AssignTower("Archer", "ArcherTowerAlt", "ArrowProjectile");
@@ -67,7 +76,7 @@ public static class TowerDefenseArtImporter
         importer.textureType = TextureImporterType.Sprite;
         importer.spriteImportMode = SpriteImportMode.Single;
         importer.spritePixelsPerUnit = 512f;
-        importer.filterMode = FilterMode.Point;
+        importer.filterMode = FilterMode.Bilinear;
         importer.textureCompression = TextureImporterCompression.Uncompressed;
         importer.alphaIsTransparency = true;
         importer.mipmapEnabled = false;

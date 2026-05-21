@@ -43,7 +43,14 @@ Current sprite groups:
 
 ## Main Scripts
 
-- `TowerDefensePrototype.cs`: runtime game bootstrap, grid, UI, battle loop, waves, towers, enemies, projectiles, effects, audio.
+- `RuntimeTowerDefenseBootstrap.cs`: runtime scene bootstrap and default tower/enemy definitions.
+- `TowerDefenseGame.cs`: central game controller, state machine, board setup, HUD, economy, waves, audio, and battle loop.
+- `Tower.cs`: tower stats, upgrades, range display, targeting, and shooting cooldown.
+- `Enemy.cs`: enemy movement along waypoints, HP, slow effect handling, and base reach behavior.
+- `Projectile.cs`: projectile movement and damage delivery.
+- `ImpactEffect.cs` and `GoldRewardEffect.cs`: short-lived visual feedback effects.
+- `SpriteLoader.cs` and `SpriteFactory.cs`: generated sprite loading and fallback runtime sprites.
+- `GameTypes.cs` and `TowerSlot.cs`: shared enums and build-slot data.
 - `TowerDefenseData.cs`: serializable tower and enemy data structures.
 - `TowerDefenseArtImporter.cs`: editor helper for importing generated sprites.
 - `TowerDefenseBuildTools.cs`: WebGL build configuration and build command.
